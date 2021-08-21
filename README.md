@@ -1,2 +1,2 @@
 # amplify_auth
-Authentication in Angular using AWS Cognito &amp; Amplify
+Authentication of web app using AWS Cognito &amp; Amplify in Angular Framework
